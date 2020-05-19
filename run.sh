@@ -2,4 +2,4 @@
 
 envsubst _ormconfig.json > ormconfig.json
 
-npm run serve
+npm run start-aws
